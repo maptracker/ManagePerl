@@ -8,4 +8,9 @@
 * __Decision Date:__ 2017-Jan-26
 * __Public Disclosure Date:__ 2017-Feb-03
 
-_Bristol-Myers Squibb PubD disclosure information_
+_Bristol-Myers Squibb PubD disclosure information. Because the git
+commit log and older file versions were not submitted for publication
+approval, the repository has been purged of history from points prior
+to approval. Internal BMS users can find the preceeding history in
+repository `ManagePerl-PrePublication`_
+
