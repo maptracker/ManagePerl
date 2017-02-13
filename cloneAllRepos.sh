@@ -47,6 +47,8 @@ if [ "$CSET" == "" ]; then
     fi
 fi
 
+source "$CSET"
+
 if [ "$RMTURL" == "" ]; then
     msg '33;41' "RMTURL has not been set"
     exit;
