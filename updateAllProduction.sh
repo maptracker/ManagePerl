@@ -46,8 +46,6 @@ fi
 
 source "$CSET"
 
-exit
-
 if [ "$PRODDIR" == "" ]; then
     msg '33;41' "PRODDIR has not been set"
     exit;
